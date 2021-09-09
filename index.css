@@ -1,0 +1,18 @@
+body {
+    background-color: #291250;
+}
+
+.content {
+    margin-top: 35vh;
+    left: 10%;
+    width: 80%;
+    position: relative;
+
+    text-align: center;
+}
+
+.load {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+}
